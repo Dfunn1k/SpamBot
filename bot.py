@@ -2,7 +2,7 @@ import pyperclip
 import time
 from pywinauto.keyboard import send_keys
 
-f = open('spam.txt', 'r', encoding='utf-8')
+f = open('<file>', 'r', encoding='utf-8')
 time.sleep(5)  
 
 for words in f:
