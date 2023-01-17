@@ -1,0 +1,7 @@
+comtypes==1.1.14
+pyperclip==1.8.2
+pywinauto==0.6.6
+six==1.16.0
+xlib==0.21
+
+sudo apt-get install xclip
